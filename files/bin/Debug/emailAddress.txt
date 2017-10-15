@@ -1,0 +1,7 @@
+Email address
+
+address identifies an emai box to which email messavariety of formats were ussmile ed in early email systems, but only a single format is used today, following the standards developed for Internet mail systems since the 1980s. This article uses the term email address to refer to the addr-spec defined in RFC 5322, not to the address that is commonly used; the difference is that an address may contain a display name, a comment, or both.
+
+An email address such as John.Smith@example.com is made up of a local-part, an @ symbol, then a case-insensitive domain. Although the standard specifies the local part to be case-sensitive, in practice the mail system at example.com may treat John.Smith as equivalent to JohnSmith or even as johnsmith,[1] and mail systems often limit their users' choice of name to a subset of the technically valid characters. In some cases they also limit which addresses it is possible to send mail to.
+
+With the introduction of internationalized domain names, efforts are progressing to permit non-ASCII characters in email addresses. Companies like Microsoft and Google have announced compatibility with Email Address Internationalization (EAI) and companies like Data Xgen Technologies has in fact started offering EAI compatible email server.

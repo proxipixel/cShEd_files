@@ -1,0 +1,7 @@
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Release\files.exe.config
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Release\emailAddress.txt
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Release\files.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Release\files.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\obj\Release\files.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\obj\Release\files.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\obj\Release\files.csprojResolveAssemblyReference.cache

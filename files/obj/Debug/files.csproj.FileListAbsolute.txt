@@ -1,0 +1,7 @@
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Debug\files.exe.config
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Debug\files.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Debug\files.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\obj\Debug\files.csprojResolveAssemblyReference.cache
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\obj\Debug\files.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\obj\Debug\files.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\files\files\bin\Debug\emailAddress.txt
